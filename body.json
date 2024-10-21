@@ -1,0 +1,11 @@
+{
+"id": "7",
+"name" : "venkat",
+"location" : "madurai",
+"phone" : "87434",
+"courses" : [
+"JAVA",
+"Selenium",
+"RestAssured"
+]
+}
